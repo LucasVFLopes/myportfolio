@@ -58,4 +58,3 @@ Este portfólio é um artefato vivo.
 
 ## 👤 Autor
 Profissional com experiência em **Customer Experience**, em processo de desenvolvimento para atuação em **operações orientadas por dados**, com interesse em melhoria contínua, análise de processos e decisões baseadas em evidências.
-# myportfolio
